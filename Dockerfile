@@ -1,3 +1,5 @@
+# run docker build -t byeskille/db-journalistikk .
+# then docker run -it -p 8080:8080 byeskille/db-journalistikk npm run dev
 FROM node:8
 
 # Create app directory
