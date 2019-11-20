@@ -1,6 +1,6 @@
-# foss4gnor2018
+# db-journalistikk
 
-The presentation "Journalistikk og kartdata hos en allmennkringkaster".
+The presentation "Slik bruker du databaser og datasett på en måte som ikke vrir på virkeligheten".
 
 ## Installation
 
