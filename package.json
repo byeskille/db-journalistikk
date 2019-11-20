@@ -1,7 +1,7 @@
 {
-  "name": "foss4gnor2018",
+  "name": "db-journalistikk",
   "version": "1.0.0",
-  "description": "FOSS4G-NOR 2018 presentation",
+  "description": "db-journalistikk presentation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haraldkj/foss4gnor2018/issues"
+    "url": "https://github.com/byeskille/db-journalistikk/issues"
   },
-  "homepage": "https://github.com/haraldkj/foss4gnor2018#readme",
+  "homepage": "https://github.com/byeskille/db-journalistikk#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
   },
